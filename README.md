@@ -6,7 +6,7 @@ Saulidity is a cybersecurity agency constituted of engineers, analysts and exper
 ---
 * **🛡Free Quick Smart Contract Security Checks & Full Smart Contract Audit Report and Security Certificate** 
 
-	We profoundly analyze your Smart Contract to detect vulnerabilities. Then, you can share your audit certificate and report with your investors and community. Also, we will 	  promote your project on our website and social media for FREE!!. 
+	We profoundly analyze your Smart Contract to detect vulnerabilities. Then, you can share your audit certificate and report with your investors and community. 
 
 * **📝Token & Smart Contract Development**
 
