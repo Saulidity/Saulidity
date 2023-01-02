@@ -4,7 +4,7 @@ Saulidity is the leading cybersecurity agency for the development of Smart Contr
 
 
 
-**We provide the following services:**
+**What We Do:**
 ---
 * **🛡Saulidity is protecting over $500M in on-chain value across many different chains and projects.** 
 
