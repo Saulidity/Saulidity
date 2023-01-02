@@ -1,18 +1,20 @@
 **Saulidity Audit**
 =
-Saulidity is a cybersecurity agency constituted of engineers, analysts and experts with an emphasis on blockchain security and smart contract development.
+Saulidity is the leading cybersecurity agency for the development of Smart Contracts and Security Audits.
+
+
 
 **We provide the following services:**
 ---
-* **🛡Free Quick Smart Contract Security Checks & Full Smart Contract Audit Report and Security Certificate** 
+* **🛡Saulidity is protecting over $500M in on-chain value across many different chains and projects.** 
 
-	We profoundly analyze your Smart Contract to detect vulnerabilities. Then, you can share your audit certificate and report with your investors and community. 
+	The security engineers of Saulidity perform extensive manual analysis on top of machine learning-driven automated scans. With a combination of our security experts' manual review and professional tools, we conduct in-depth analysis of smart contracts for both well-known and more specific vulnerabilities with an emphasis on the official SWC registry.
 
-* **📝Token & Smart Contract Development**
+* **📝Project Development**
 
-	Whether you want a fully custom crypto currency from scratch or add modifications to your current Smart Contract, our experts will handle everything with extreme precision.
+	Our services are not limited to crypto projects. Whether you need an app, website or anything else, share your needs and our engineers will support your team with dynamic solutions for your business ideas by emphasizing security and efficiency.
 
 * **💻WEB 3.0 - Custom Smart Contracts**
 
-	The Solidity experts of the Saulidity team will ensure dynamic solutions. We emphasize security and efficiency with custom Smart Contracts.	
+	The experts of the Saulidity team will ensure dynamic solutions. We emphasize security and efficiency with our Smart Contracts.	
 
